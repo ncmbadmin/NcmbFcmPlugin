@@ -1,5 +1,7 @@
 # NIFCLOUD Mobile Backend Push Notification Android Plugin Project
 
+こちらは[ニフクラmobile backendUnityプッシュ通知用プラグイン](https://github.com/NIFCLOUD-mbaas/ncmb_unity_push_plugin)で利用するAndroid用のライブラリーのソースコードになります。
+
 ---
 ## 動作環境
 
@@ -15,7 +17,7 @@
 ※なお、mobile backend にて大規模な改修が行われた際は、1年半以内のSDKであっても対応出来ない場合がございます。  
 その際は[informationブログ](https://mbaas.nifcloud.com/info/)にてお知らせいたします。予めご了承ください。  
 
-- vx.x.x ～ (※2022年12月時点)
+- v1.0.0 ～ (※2023年4月時点)
 
 [開発ガイドライン](https://mbaas.nifcloud.com/doc/current/common/dev_guide.html#SDK%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)をご覧ください。
 
